@@ -1,0 +1,7 @@
+c:\users\donis\source\repos\ConsoleApp4inarow\ConsoleApp4inarow\bin\Debug\ConsoleApp4inarow.exe.config
+c:\users\donis\source\repos\ConsoleApp4inarow\ConsoleApp4inarow\bin\Debug\ConsoleApp4inarow.exe
+c:\users\donis\source\repos\ConsoleApp4inarow\ConsoleApp4inarow\bin\Debug\ConsoleApp4inarow.pdb
+c:\users\donis\source\repos\ConsoleApp4inarow\ConsoleApp4inarow\obj\Debug\ConsoleApp4inarow.csprojAssemblyReference.cache
+c:\users\donis\source\repos\ConsoleApp4inarow\ConsoleApp4inarow\obj\Debug\ConsoleApp4inarow.csproj.CoreCompileInputs.cache
+c:\users\donis\source\repos\ConsoleApp4inarow\ConsoleApp4inarow\obj\Debug\ConsoleApp4inarow.exe
+c:\users\donis\source\repos\ConsoleApp4inarow\ConsoleApp4inarow\obj\Debug\ConsoleApp4inarow.pdb
